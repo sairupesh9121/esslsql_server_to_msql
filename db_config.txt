@@ -1,0 +1,12 @@
+Source_DB_Type=SQL Server
+Source_Server=DESKTOP-ERNA9NF
+Source_Database=etimetracklite
+Source_UID=sa
+Source_PWD=admin@123
+Source_Port=1433
+Target_DB_Type=MySQL
+Target_Server=127.0.0.1
+Target_Database=hrmsdb
+Target_UID=sa
+Target_PWD=aI!@y11RWnsyYCPR
+Target_Port=3306
