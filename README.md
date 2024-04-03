@@ -49,7 +49,7 @@ To convert your Python script into a standalone Windows executable (`.exe`), you
    Run the following command to create the executable. Replace `your_script.py` with the name of your Python script.
 
    ```
-   pyinstaller --onefile your_script.py
+   pyinstaller --onefile --windowed app.py
    ```
 
    This command will create a `dist` directory in your script's directory, and inside it, you'll find your standalone executable. The `--onefile` option specifies that you want a single `.exe` file as the output.
